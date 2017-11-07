@@ -1,3 +1,5 @@
+SHOULD NOT PASS
+
 Welcome to Scilab 6.0.0
 =======================
 
