@@ -1,4 +1,4 @@
-SHOULD NOT PASS
+BAR BAR
 
 Welcome to Scilab 6.0.0
 =======================
